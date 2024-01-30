@@ -1,0 +1,67 @@
+*{
+    box-sizing: border-box;
+    font-size: 20px;
+}
+
+.c {
+    position: absolute;
+    bottom: 350px;
+    right: 350px;
+    text-align: center;
+}
+.w {
+    position: absolute;
+    bottom: 315px;
+    right: 655px;
+    text-align: center;
+    z-index: 7;
+}
+.img {
+    position: absolute;
+    bottom: 300px;
+    right: 515px;
+    z-index: 7;
+}
+.form {
+    position: absolute;
+    bottom: 50px;
+    right: 520px;
+    z-index: 7;
+}
+.arrow {
+position: absolute;
+top: -10px;
+right: 400px;
+z-index: 7;
+}
+.thealphabet {
+position: absolute;
+top: 100px;
+right: 300px;
+z-index: 7;
+}
+.table {
+    z-index: 9;
+}
+
+table {
+    border-collapse: collapse;
+    position: absolute;
+    left: 400px;
+    top: 770px;
+}
+h2 {
+    position: absolute;
+    left: 650px;
+    top: 720px;
+}
+.credit {
+    position: absolute;
+    left: 700px;
+    top: 1050px;
+}
+.credits {
+    position: absolute;
+    top: 1100px;
+    left: 550px;
+}
